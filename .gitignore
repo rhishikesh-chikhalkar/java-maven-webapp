@@ -1,2 +1,6 @@
-.settings/*
-target/*
+*__pycache__ 
+*.code 
+*.vscode 
+*.idea 
+*local_env 
+*venv
