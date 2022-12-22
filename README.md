@@ -1,1 +1,1 @@
-# mvnwebapp
+# Java Maven WebApp
